@@ -16,6 +16,7 @@ __Bold__
 _**Itálico Bold**_;
 
 __*Ou com dois underline e um asterísco*__
+três underline faz uma barra de quebra de linha
 
 ***
 ## Teste Títulos:
